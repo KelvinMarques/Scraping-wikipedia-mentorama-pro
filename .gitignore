@@ -14,7 +14,7 @@ dist/
 downloads/
 eggs/
 .eggs/
-lib/
+Lib/
 lib64/
 parts/
 sdist/
@@ -26,9 +26,9 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
-.vscode/
-include/
-Scripts/
+.vscode
+Include
+Scripts
 # PyInstaller
 #  Usually these files are written by a python script from a template
 #  before PyInstaller builds the exe, so as to inject date/other infos into it.
